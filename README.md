@@ -1,3 +1,5 @@
-<div style="background:pink">
-  0w0
-</div>
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
