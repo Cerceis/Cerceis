@@ -17,8 +17,9 @@ o_(")(") 💖 ぴょんぴょん〜 0w0
 
 ----
 
-### Stats  
+### -
 ![Chiyori's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cerceis&theme=tokyonight&show_icons=true)
+### -
 ![Chiyori's Monkeytype stats](https://monkeytype-readme.com/generate-svg/Chiyori/lilac_mist?lbpb=true)
 
 ---
