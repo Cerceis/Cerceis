@@ -18,7 +18,8 @@ o_(")(") 💖 ぴょんぴょん〜 0w0
 ----
 
 ### Stats  
-![Chiyori's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cerceis&theme=pink-green&show_icons=true)
+![Chiyori's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cerceis&theme=tokyonight&show_icons=true)
+![Chiyori's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cerceis&theme=tokyonight&show_icons=true)
 
 ---
 
