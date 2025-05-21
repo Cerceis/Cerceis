@@ -6,7 +6,7 @@ o_(")(") 💖 ぴょんぴょん〜 0w0
 
 ---
 
-![Cute Bunny Gif](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+![Hehe Gif](https://media.tenor.com/QDeeQDF4kAwAAAAj/genshin-impact-raiden-shogun.gif)
 
 ![Pink Rust](https://img.shields.io/badge/Rust-pink?style=for-the-badge&logo=flutter&logoColor=white&color=ff69b4)  
 ![Pink Vue](https://img.shields.io/badge/Vue.js-pink?style=for-the-badge&logo=vue.js&logoColor=white&color=ffb6c1)  
